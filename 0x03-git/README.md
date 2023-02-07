@@ -1,1 +1,2 @@
-readme2
+Shell Scripting
+The course is very interesting
